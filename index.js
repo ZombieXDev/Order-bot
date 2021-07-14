@@ -48,7 +48,7 @@ message.react("❎")
    yes.on('collect', (r, u) => {
       message.delete();
       message.reply("Done Send Your Order Wait , ☑️")
-  ch.send(`<!${orole}>`)
+  ch.send(`<@&${orole}>`)
  const embed = new Discord.MessageEmbed()
 .setAuthor("New Order!", client.user.avatarURL())
 .setThumbnail(client.user.avatarURL())
