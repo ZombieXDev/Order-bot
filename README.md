@@ -23,8 +23,11 @@ token=<token bot>
 4. Go to `setting.json`
 ```
 {
-  "prefix":"prefix bot"
-} 
+  "prefix":"prefix", 
+  "ochannel":"Orders Channel Id", 
+  "orole":"Orders Role id", 
+  "oline":"Line Server link"
+}
 ```
 
 ## Support 💠
