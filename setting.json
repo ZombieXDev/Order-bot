@@ -1,0 +1,6 @@
+{
+  "prefix":"prefix", 
+  "ochannel":"Orders Channel Id", 
+  "orole":"Orders Role id", 
+  "oline":"Line Server link"
+}
